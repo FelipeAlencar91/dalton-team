@@ -1,6 +1,6 @@
 # Dalton Team
 
-Site do treinador Dalton da Silva Sousa, com logo, fotos, serviços e contato.
+Site do treinador Dalton da Silva Souza, com logo, fotos, serviços e contato.
 
 Site publicado: https://daltonteam.pages.dev/
 
